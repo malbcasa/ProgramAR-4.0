@@ -1,0 +1,30 @@
+p{
+    color: red;
+    width: 300px;
+}
+
+h1{
+    border: 1px solid black;
+    margin: 40px 10px 20px 10px;
+    padding: 30px 15px 25px 20px;
+    font-weight: bold;
+    color: grey;
+}
+
+section{
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+}
+
+#mi_parrafo{
+    color: yellow;
+    font-size: 23px;
+    border: 1px solid orange;
+}
+
+.estaesmiclase{
+    font-weight: bold;
+    color: lightblue;
+}
