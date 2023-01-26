@@ -1,7 +1,7 @@
 
 var x = 10;
 
-forx(x ; x > 0 ; x--){
+for(x ; x > 0 ; x--){
     if(x==5){
         break;
     }
